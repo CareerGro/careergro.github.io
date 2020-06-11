@@ -199,7 +199,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 				</div>
 				<div class="elementor-element elementor-element-43z9h6r elementor-widget elementor-widget-text-editor" data-id="43z9h6r" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><h6>College Career Planners push the same old paths that are flush with graduates. Unemployment is at an all time low in the US, while Career happiness is at the same low. CareerGRO Consulting’s solution is to layout an individuals options for new, undeserved, or niche industry career paths and set them on the required education/training/or solutions required to get there.</h6></div>
+					<div class="elementor-text-editor elementor-clearfix"><h6>College Career Planners push the same old paths that are flush with graduates. Unemployment is at an all time low in the US, while Career happiness is at the same low. CareerGRO Consulting’s solution is to layout an individuals options for new, under-served, or niche industry career paths and set them on the required education/training/or solutions required to get there.</h6></div>
 				</div>
 				</div>
 				<section class="elementor-element elementor-element-mqelytj elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="mqelytj" data-element_type="section">
