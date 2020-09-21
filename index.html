@@ -152,7 +152,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 				<div class="elementor-element elementor-element-05b61d8 elementor-button-success elementor-align-justify elementor-widget elementor-widget-button" data-id="05b61d8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://payment.careergro.tech/product/career-membership/" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://payment.careergro.tech/product/career-plan/" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Consult Now For $1</span>
 		</span>
@@ -313,7 +313,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 				<div class="elementor-element elementor-element-b49c512 elementor-widget elementor-widget-button" data-id="b49c512" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://payment.careergro.tech/product/career-membership/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://payment.careergro.tech/product/career-plan/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
@@ -337,7 +337,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 				<div class="elementor-element elementor-element-f8ce527 elementor-widget elementor-widget-button" data-id="f8ce527" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://payment.careergro.tech/product/career-membership/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://payment.careergro.tech/product/career-plan/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
@@ -361,7 +361,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 				<div class="elementor-element elementor-element-e7d8560 elementor-widget elementor-widget-button" data-id="e7d8560" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://payment.careergro.tech/product/career-membership/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://payment.careergro.tech/product/career-plan/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
@@ -385,7 +385,7 @@ html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3
 				<div class="elementor-element elementor-element-c32400a elementor-widget elementor-widget-button" data-id="c32400a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://payment.careergro.tech/product/career-membership/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://payment.careergro.tech/product/career-plan/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
